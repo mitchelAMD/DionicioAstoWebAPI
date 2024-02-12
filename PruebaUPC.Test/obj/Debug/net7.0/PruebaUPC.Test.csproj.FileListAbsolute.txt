@@ -1,0 +1,628 @@
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\testhost.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\testhost.exe
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.api.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.core.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.deps.json
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.runtimeconfig.json
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Castle.Core.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\MediatR.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Moq.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\nunit.framework.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.AssemblyReference.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfoInputs.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfo.cs
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CopyComplete
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\refint\PruebaUPC.Test.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.genruntimeconfig.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\obj\Debug\net7.0\ref\PruebaUPC.Test.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Moq.EntityFrameworkCore.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\testhost.exe
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\testhost.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.deps.json
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.runtimeconfig.json
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\MediatR.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Moq.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Moq.EntityFrameworkCore.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.AssemblyReference.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfoInputs.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfo.cs
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CoreCompileInputs.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CopyComplete
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\refint\PruebaUPC.Test.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.genruntimeconfig.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Test\obj\Debug\net7.0\ref\PruebaUPC.Test.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testhost.exe
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testhost.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.api.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.core.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.deps.json
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.runtimeconfig.json
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Castle.Core.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\MediatR.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Moq.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Moq.EntityFrameworkCore.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.framework.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.AssemblyReference.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfoInputs.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfo.cs
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CoreCompileInputs.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CopyComplete
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\refint\PruebaUPC.Test.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.genruntimeconfig.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\ref\PruebaUPC.Test.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testhost.exe
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testhost.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.api.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.engine.core.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\testcentric.engine.metadata.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.deps.json
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.runtimeconfig.json
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Test.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\MediatR.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Http.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Moq.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Moq.EntityFrameworkCore.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\nunit.framework.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Application.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\bin\Debug\net7.0\PruebaUPC.Infraestructure.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.AssemblyReference.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfoInputs.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.AssemblyInfo.cs
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CoreCompileInputs.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.csproj.CopyComplete
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\refint\PruebaUPC.Test.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\PruebaUPC.Test.genruntimeconfig.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Test\obj\Debug\net7.0\ref\PruebaUPC.Test.dll

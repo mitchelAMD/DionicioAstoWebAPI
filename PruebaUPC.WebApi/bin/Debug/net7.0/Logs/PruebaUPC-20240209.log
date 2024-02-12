@@ -1,0 +1,106 @@
+﻿info: Microsoft.Hosting.Lifetime[ListeningOnAddress] @ 2024-02-09T10:01:55.7064234-05:00
+      Now listening on: https://localhost:7201
+info: Microsoft.Hosting.Lifetime[ListeningOnAddress] @ 2024-02-09T10:01:55.7108239-05:00
+      Now listening on: http://localhost:5025
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:01:55.7176211-05:00
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:01:55.7189390-05:00
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:01:55.7201233-05:00
+      Content root path: D:\Proyectos\C#\PruebaUPC\PruebaUPC.WebApi
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:01:56.0352192-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/index.html - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:01:56.1914058-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/index.html - - - 200 - text/html;charset=utf-8 156.6793ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:01:56.2069502-05:00
+      Request starting HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:01:56.2101454-05:00
+      Request finished HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 3.1905ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:01:56.2314507-05:00
+      Request starting HTTP/2 GET https://localhost:7201/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:01:56.2591337-05:00
+      Request finished HTTP/2 GET https://localhost:7201/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.6814ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:01:56.3236756-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:01:56.4010716-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 77.3953ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:02:11.7550887-05:00
+      Request starting HTTP/2 GET https://localhost:7201/Status - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutingEndpoint] @ 2024-02-09T10:02:11.7579951-05:00
+      Executing endpoint 'PruebaUPC.WebApi.Controllers.StatusController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ControllerActionExecuting] @ 2024-02-09T10:02:11.7708404-05:00
+      Route matched with {action = "Get", controller = "Status"}. Executing controller action with signature System.Collections.Generic.Dictionary`2[System.Boolean,System.String] Get() on controller PruebaUPC.WebApi.Controllers.StatusController (PruebaUPC.WebApi).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[ObjectResultExecuting] @ 2024-02-09T10:02:11.7772283-05:00
+      Executing ObjectResult, writing value of type 'System.Collections.Generic.Dictionary`2[[System.Boolean, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=7.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ActionExecuted] @ 2024-02-09T10:02:11.7831932-05:00
+      Executed action PruebaUPC.WebApi.Controllers.StatusController.Get (PruebaUPC.WebApi) in 10.6681ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutedEndpoint] @ 2024-02-09T10:02:11.7834985-05:00
+      Executed endpoint 'PruebaUPC.WebApi.Controllers.StatusController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:02:11.7835488-05:00
+      Request finished HTTP/2 GET https://localhost:7201/Status - - - 200 - application/json;+charset=utf-8 28.4597ms
+info: Microsoft.Hosting.Lifetime[ListeningOnAddress] @ 2024-02-09T10:48:01.9977781-05:00
+      Now listening on: https://localhost:7201
+info: Microsoft.Hosting.Lifetime[ListeningOnAddress] @ 2024-02-09T10:48:02.0013061-05:00
+      Now listening on: http://localhost:5025
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:48:02.0032256-05:00
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:48:02.0034130-05:00
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0] @ 2024-02-09T10:48:02.0034247-05:00
+      Content root path: D:\Proyectos\C#\PruebaUPC\PruebaUPC.WebApi
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:48:02.4802553-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/index.html - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:48:02.5884641-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/index.html - - - 200 - text/html;charset=utf-8 108.7208ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:48:02.6052209-05:00
+      Request starting HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:48:02.6079140-05:00
+      Request finished HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 2.6909ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:48:02.7147957-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:48:02.7889344-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 74.1363ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:48:05.2405960-05:00
+      Request starting HTTP/2 GET https://localhost:7201/Product - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutingEndpoint] @ 2024-02-09T10:48:05.2456211-05:00
+      Executing endpoint 'PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ControllerActionExecuting] @ 2024-02-09T10:48:05.2728811-05:00
+      Route matched with {action = "Get", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.IEnumerable`1[PruebaUPC.Application.Products.Queries.GetProducts.ProductDto]] Get() on controller PruebaUPC.WebApi.Controllers.ProductController (PruebaUPC.WebApi).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[ObjectResultExecuting] @ 2024-02-09T10:48:05.2893227-05:00
+      Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[PruebaUPC.Application.Products.Queries.GetProducts.ProductDto, PruebaUPC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ActionExecuted] @ 2024-02-09T10:48:05.3044773-05:00
+      Executed action PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi) in 28.0861ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutedEndpoint] @ 2024-02-09T10:48:05.3048223-05:00
+      Executed endpoint 'PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:48:05.3048932-05:00
+      Request finished HTTP/2 GET https://localhost:7201/Product - - - 200 - application/json;+charset=utf-8 64.2974ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:49:21.7913775-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/index.html - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:49:22.4728307-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/index.html - - - 200 - text/html;charset=utf-8 681.4506ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:49:22.4849507-05:00
+      Request starting HTTP/2 GET https://localhost:7201/_vs/browserLink - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:49:22.4849507-05:00
+      Request starting HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:49:22.4853306-05:00
+      Request finished HTTP/2 GET https://localhost:7201/_framework/aspnetcore-browser-refresh.js - - - 200 12002 application/javascript;+charset=utf-8 0.3804ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:49:22.5139113-05:00
+      Request finished HTTP/2 GET https://localhost:7201/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 28.9559ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:49:22.5460186-05:00
+      Request starting HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:49:22.5490726-05:00
+      Request finished HTTP/2 GET https://localhost:7201/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 3.0527ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1] @ 2024-02-09T10:49:33.7586125-05:00
+      Request starting HTTP/2 GET https://localhost:7201/Product - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutingEndpoint] @ 2024-02-09T10:49:33.7589677-05:00
+      Executing endpoint 'PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ControllerActionExecuting] @ 2024-02-09T10:49:33.7591775-05:00
+      Route matched with {action = "Get", controller = "Product"}. Executing controller action with signature System.Threading.Tasks.Task`1[System.Collections.Generic.IEnumerable`1[PruebaUPC.Application.Products.Queries.GetProducts.ProductDto]] Get() on controller PruebaUPC.WebApi.Controllers.ProductController (PruebaUPC.WebApi).
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor[ObjectResultExecuting] @ 2024-02-09T10:49:33.7599248-05:00
+      Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[PruebaUPC.Application.Products.Queries.GetProducts.ProductDto, PruebaUPC.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+info: Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker[ActionExecuted] @ 2024-02-09T10:49:33.7601155-05:00
+      Executed action PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi) in 0.9111ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[ExecutedEndpoint] @ 2024-02-09T10:49:33.7601596-05:00
+      Executed endpoint 'PruebaUPC.WebApi.Controllers.ProductController.Get (PruebaUPC.WebApi)'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2] @ 2024-02-09T10:49:33.7601883-05:00
+      Request finished HTTP/2 GET https://localhost:7201/Product - - - 200 - application/json;+charset=utf-8 1.5773ms

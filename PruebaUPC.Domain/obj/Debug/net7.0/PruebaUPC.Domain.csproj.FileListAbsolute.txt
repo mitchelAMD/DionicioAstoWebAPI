@@ -1,0 +1,47 @@
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.deps.json
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfoInputs.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfo.cs
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\refint\PruebaUPC.Domain.dll
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.pdb
+D:\Proyectos\C#\PruebaUPC\PruebaUPC.Domain\obj\Debug\net7.0\ref\PruebaUPC.Domain.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.deps.json
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.AssemblyReference.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfoInputs.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfo.cs
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\refint\PruebaUPC.Domain.dll
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Downloads\PruebaUPC v200\PruebaUPC.Domain\obj\Debug\net7.0\ref\PruebaUPC.Domain.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.deps.json
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.AssemblyReference.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfoInputs.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfo.cs
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.CoreCompileInputs.cache
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\refint\PruebaUPC.Domain.dll
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\ref\PruebaUPC.Domain.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.deps.json
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\bin\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.AssemblyReference.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfoInputs.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.AssemblyInfo.cs
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\refint\PruebaUPC.Domain.dll
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\PruebaUPC.Domain.pdb
+C:\Users\mdionici\Documents\DionicioAstoWebApi\DionicioAstoWebAPI\PruebaUPC.Domain\obj\Debug\net7.0\ref\PruebaUPC.Domain.dll
