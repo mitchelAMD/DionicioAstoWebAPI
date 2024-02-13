@@ -1,7 +1,8 @@
 # DionicioAstoWebAPI
 Descripción del Proyecto
 
-Este proyecto es una aplicación REST API desarrollada en .NET Core 7.0 que sigue el patrón de arquitectura CQRS (Command Query Responsibility Segregation) junto con el patrón Mediator para gestionar los comandos y consultas. La aplicación sigue una estructura modular y utiliza la inyección de dependencias para mantener un acoplamiento bajo entre los diferentes componentes.
+Este proyecto es una aplicación REST API desarrollada en .NET Core 7.0 que sigue el patrón de arquitectura CQRS (Command Query Responsibility Segregation) junto con el patrón Mediator para gestionar los comandos y consultas. La aplicación sigue una estructura modular y utiliza la inyección de dependencias para mantener un acoplamiento bajo entre los diferentes componentes. La informacion
+de los datos se esta grabando localmente utilizando persistencia, los datos grabados se visualizan en SQLite. Se esta consumiendo un servicio externo realizado en mockapi donde se obtiene el campo Discount para realizar el calculo del precio total del producto.
 
 Estructura del Proyecto
 
@@ -20,3 +21,4 @@ Dar click en Code/Download ZIP. El archivo se va a descargar en la carpeta de De
 Información Adicional
 
 Pruebas Unitarias: Se han incluido pruebas unitarias en el proyecto PruebaUPC.Test utilizando el framework NUnit y la biblioteca Moq para realizar mock de dependencias. Logging: La aplicación utiliza un sistema de registro (logging) que almacena los registros en archivos, ubicados en el directorio de la aplicación. Caché: Se ha implementado un ejemplo de caché utilizando la biblioteca MemoryCache para almacenar temporalmente los estados de la aplicación en el controlador StatusController. la ruta del archivo LOGS se encuentra en PruebaUPC.WebApi\bin\Debug\net7.0\Logs
+
